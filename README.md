@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?GauthierGDEV=GauthierGDEV)
+![](https://komarev.com/ghpvc/?username=GauthierGDEV)

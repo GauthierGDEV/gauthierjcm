@@ -8,4 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gauthierjcm)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
 
